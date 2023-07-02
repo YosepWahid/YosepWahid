@@ -3,6 +3,9 @@
 
 <br>
 
+
+<h3 align="left">Profile:</h3>
+
 - 💬 Ask me about **Laravel and PHP**
 
 - 📫 How to reach me **yosep2377@gmail.com**
@@ -27,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yosepwahid&show_icons=true&locale=en" alt="yosepwahid" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosepwahid&" alt="yosepwahid" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yosepwahid&" alt="yosepwahid" /></p> -->
